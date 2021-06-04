@@ -13,7 +13,7 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git Push](./Commands/Push.md)
 - [git Pull](./Commands/Pull.md)
 - [git Status](./Commands/Status.md)
-- [git Clone](./Commands/clone.md)
+- [git Clone](./Commands/Clone.md)
 
 
 ## External Resources
