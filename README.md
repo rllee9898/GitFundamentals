@@ -5,15 +5,15 @@ Git is a version control system that allows us to track changes and commit them 
 Here is a growing collection of resources and helpful commands to know when working with git.
 
 ## Git Commands
-- [git config](./Commands/Config.md)
-- [git init](./Commands/Init.md)
-- [git add](./Commands/Add.md)
-- [git commit](./Commands/Commit.md)
-- [git remote](./Commands/Remote.md)
-- [git push](./Commands/Push.md)
-- [git pull](./Commands/Pull.md)
-- [git status](./Commands/Status.md)
-- [git clone](./Commands/Clone.md)
+- [git Config](./Commands/Config.md)
+- [git Init](./Commands/Init.md)
+- [git Add](./Commands/Add.md)
+- [git Commit](./Commands/Commit.md)
+- [git Remote](./Commands/Remote.md)
+- [git Push](./Commands/Push.md)
+- [git Pull](./Commands/Pull.md)
+- [git Status](./Commands/Status.md)
+- [git Clone](./Commands/Clone.md)
 
 ## External Resources
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
